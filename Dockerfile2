@@ -1,0 +1,4 @@
+FROM Ubuntu
+RUN touch a.txt
+RUN mkdir huangqian
+
